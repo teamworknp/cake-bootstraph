@@ -1,15 +1,14 @@
 cake-bootstraph
 ===============
 
-Clone this package https://github.com/wawanabnan/cake-bootstraph.git 
-  cd to your app (your_sites/app)
-  git clone https://github.com/wawanabnan/cake-bootstraph.git 
+How to install:
+
+  1. Clone this package to your app, cd to your app (your_sites/app)
+  2. type git clone git@github.com:wawanabnan/cake-bootstraph.git
+  3. Alternatively you can download from download link
+  4. create database and extract erp.sql (app/config/schema)
   
-  Atau download sebagai zip
-  
-  extract app-db.sql (app/config/schema)
-  
-  selamat mencoba
+  good luck
   
   
 
